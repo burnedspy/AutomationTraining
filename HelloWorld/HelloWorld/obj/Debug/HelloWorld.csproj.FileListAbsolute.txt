@@ -1,0 +1,6 @@
+\\manfs01\home$\carlogene.delara\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\manfs01\home$\carlogene.delara\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+\\manfs01\home$\carlogene.delara\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+\\manfs01\home$\carlogene.delara\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+\\manfs01\home$\carlogene.delara\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+\\manfs01\home$\carlogene.delara\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
